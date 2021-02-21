@@ -12,7 +12,7 @@ I am a first-year PhD student within the Machine Learning group, [Data Science d
 
 My current research focuses on the interface between probabilistic modeling and deep learning.
 
-My ambitious aim is to develop models that are more interpretable, scalable and data efficient, following the Bayesian scheme. I'm particularly investigating better priors and more efficient inference techniques for deep probabilistic models.
+My ambitious aim is to develop models that are more interpretable, scalable and data efficient. I'm particularly investigating better priors and more efficient inference techniques for deep probabilistic models.
 
 
 

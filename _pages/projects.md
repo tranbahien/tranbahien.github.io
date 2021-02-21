@@ -24,4 +24,4 @@ The Bayesian treatment of neural networks dictates that a prior distribution is 
 ### Publications
 Tran, Ba-Hien; Milios, Dimitrios; Rossi, Simone; Filippone, Maurizio. "Functional priors for bayesian neural networks through wasserstein distance minimization to Gaussian processes". *3rd Symposium on Advances in Approximate Bayesian Inference, 2021*. [pdf](https://openreview.net/pdf?id=GsivsoVTb2).
 
-Tran, Ba-Hien; Milios, Dimitrios; Rossi, Simone; Filippone, Maurizio. "All you need is a good functional prior for Bayesian deep learning". *Arxiv preprint, 2020*. [pdf](https://arxiv.org/pdf/2011.12829.pdf).
+Tran, Ba-Hien; Rossi, Simone; Milios, Dimitrios; Filippone, Maurizio. "All you need is a good functional prior for Bayesian deep learning". *Arxiv preprint, 2020*. [pdf](https://arxiv.org/pdf/2011.12829.pdf).
