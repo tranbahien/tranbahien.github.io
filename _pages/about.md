@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fisrt-year PhD student within the Machine Learning group, [Data Science department](https://ds.eurecom.fr), at [EURECOM](http://eurecom.fr/en), under the supervision of [Prof. Maurizio Filippone](https://scholar.google.com/citations?hl=en&user=ILUeAloAAAAJ).
+I am a first-year PhD student within the Machine Learning group, [Data Science department](https://ds.eurecom.fr), at [EURECOM](http://eurecom.fr/en), under the supervision of [Prof. Maurizio Filippone](https://scholar.google.com/citations?hl=en&user=ILUeAloAAAAJ).
 
 My current research focuses on the interface between probabilistic modeling and deep learning.
 
