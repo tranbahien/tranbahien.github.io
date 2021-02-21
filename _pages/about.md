@@ -14,6 +14,9 @@ My current research focuses on the interface between probabilistic modeling and 
 
 My ambitious aim is to develop models that are more interpretable, scalable and data efficient. I'm particularly investigating better priors and more efficient inference techniques for deep probabilistic models.
 
+Please feel free to check out my list of publications, software and contact me for a research discussion.
+
+**Contact**: ba-hien (dot) tran (at) eurecom (dot) fr ; bahientranvn (at) gmail (dot) com .
 
 
 ## Latest News
