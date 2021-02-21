@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2021-17-02-dce-alan-turing
 venue: "Alan Turing Institute, Data Centric Engineering Group"
-date: 2021-02-17
+date: 2021-17-02
 location: "London, UK (online)"
 ---
 
