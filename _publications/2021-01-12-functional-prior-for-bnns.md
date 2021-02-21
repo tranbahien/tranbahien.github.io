@@ -3,7 +3,7 @@ title: "Functional priors for bayesian neural networks through wasserstein dista
 collection: publications
 permalink: /publication/2021-01-12-functional-prior-for-bnns
 excerpt: ''
-date: 2021-01-12
+date: 2021-12-01
 venue: '3rd Symposium on Advances in Approximate Bayesian Inference'
 paperurl: 'https://openreview.net/pdf?id=GsivsoVTb2'
 citation: 'Tran, Ba-Hien; Milios, Dimitrios; Rossi, Simone; Filippone, Maurizio. &quot;Functional priors for bayesian neural networks through wasserstein distance minimization to Gaussian processes.&quot; <i>3rd Symposium on Advances in Approximate Bayesian Inference, 2021</i>.'

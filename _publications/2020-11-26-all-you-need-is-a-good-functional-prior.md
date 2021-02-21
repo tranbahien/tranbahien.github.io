@@ -3,7 +3,7 @@ title: "All you need is a good functional prior for Bayesian deep learning"
 collection: publications
 permalink: /publication/2020-11-26-all-you-need-is-a-good-functional-prior
 excerpt: ''
-date: 2020-11-26
+date: 2020-26-11
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2011.12829'
 citation: 'Tran, Ba-Hien; Milios, Dimitrios; Rossi, Simone; Filippone, Maurizio. &quot;All you need is a good functional prior for Bayesian deep learning.&quot; <i>Arxiv preprint</i>.'
