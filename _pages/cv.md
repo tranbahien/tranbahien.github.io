@@ -16,7 +16,7 @@ Education
 * **M.S.Eng. in Data Science**, Telecom Paris, 2020. *High Distinction*.
   * Thesis: *Bayesian Inference for Deep Neural Networks*, (perfect grade: 20/20).
 * **B.S. (honors) in Computer Science**, Vietnam National University, HCMC, 2016. *Distinction*.
-  * Thesis: *Deep Learning Approaches for Data-driven Image Captioning*, (perfect grade: 10/10).
+  * Thesis: *Deep Learning Approaches to Data-driven Image Captioning*, (perfect grade: 10/10).
 
 
 Awards
@@ -25,4 +25,4 @@ Awards
 * *1st and Special Prizes*, Entropy Data Analytics Competition, 2017.
 * *Dean's List Award* for Outstanding Academic Performance, Vietnam National University, HCMC, 2016.
 
-**My full CV and references available upon requested.**
+**My full CV and references available upon request.**
