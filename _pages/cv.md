@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Machine Learning**, Sorbonne University and EURECOM, 2023 (expected).
+* **Ph.D. in Machine Learning**, Sorbonne University and EURECOM, 2023 (expected).
   * Thesis: *Accelerating Inference for Deep Probabilistic Models*.
 * **M.S.Eng. in Data Science**, Telecom Paris, 2020. *High Distinction*.
   * Thesis: *Bayesian Inference for Deep Neural Networks*, (perfect grade: 20/20).
