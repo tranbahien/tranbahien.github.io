@@ -12,6 +12,18 @@ author_profile: true
 {% endfor %}
 -->
 
+------------------------------------------------------------------------------
+## Model Selection for Bayesian Autoencoders
+![BRS](/files/abstract_figures/bae_prior.png)
+
+### Abstract
+We develop a novel method for carrying out model selection for Bayesian autoencoders (BAEs) by means of prior hyper-parameter optimization. Inspired by the common practice of type-II maximum likelihood optimization and its equivalence to Kullback-Leibler divergence minimization, we propose to optimize the distributional sliced-Wasserstein distance (DSWD) between the output of the autoencoder and the empirical data distribution. The advantages of this formulation are that we can estimate the DSWD based on samples and handle high-dimensional problems. We carry out posterior estimation of the BAE parameters via stochastic gradient Hamiltonian Monte Carlo and turn our BAE into a generative model by fitting a flexible Dirichlet mixture model in the latent space. Consequently, we obtain a powerful alternative to variational autoencoders, which are the preferred choice in modern applications of autoencoders for representation learning with uncertainty. We evaluate our approach qualitatively and quantitatively using a vast experimental campaign on a number of unsupervised learning tasks and show that, in smalldata regimes where priors matter, our approach provides state-of-the-art results, outperforming multiple competitive baselines.
+
+
+### Publications
+Tran, Ba-Hien; Rossi, Simone; Milios, Dimitrios; Michiardi, Pietro; V. Bonilla, Edwin; Filippone, Maurizio. "Model Selection for Bayesian Autoencoders.". *arXiv preprint arXiv:2106.06245, 2021*. [pdf](https://arxiv.org/pdf/2106.06245.pdf).
+
+
 
 
 ------------------------------------------------------------------------------
@@ -24,4 +36,4 @@ The Bayesian treatment of neural networks dictates that a prior distribution is 
 ### Publications
 Tran, Ba-Hien; Milios, Dimitrios; Rossi, Simone; Filippone, Maurizio. "Functional priors for bayesian neural networks through wasserstein distance minimization to Gaussian processes". *3rd Symposium on Advances in Approximate Bayesian Inference, 2021*. [pdf](https://openreview.net/pdf?id=GsivsoVTb2).
 
-Tran, Ba-Hien; Rossi, Simone; Milios, Dimitrios; Filippone, Maurizio. "All you need is a good functional prior for Bayesian deep learning". *Arxiv preprint, 2020*. [pdf](https://arxiv.org/pdf/2011.12829.pdf).
+Tran, Ba-Hien; Rossi, Simone; Milios, Dimitrios; Filippone, Maurizio. "All You Need is a Good Functional Prior for Bayesian Deep Learning". *arXiv preprint arXiv:2011.12829, 2020*. [pdf](https://arxiv.org/pdf/2011.12829.pdf).
