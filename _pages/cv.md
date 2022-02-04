@@ -25,4 +25,4 @@ Awards
 * *1st and Special Prizes*, Entropy Data Analytics Competition, 2017.
 * *Dean's List Award* for Outstanding Academic Performance, Vietnam National University, HCMC, 2016.
 
-**My full CV and references available upon request.**
+**My full CV and references are available upon request.**
