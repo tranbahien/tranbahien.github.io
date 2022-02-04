@@ -5,5 +5,5 @@ type: "News"
 permalink: /news/alan-turing-talk
 venue: 
 date: 2021-02-17
-location: ""
+location: "UK (online)"
 ---

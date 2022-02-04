@@ -5,5 +5,5 @@ type: "News"
 permalink: /news/2021-09-28-model-selection-for-bayesian-autoencoders
 venue: 
 date: 2021-09-28
-location: ""
+location: "Australia (online)"
 ---
