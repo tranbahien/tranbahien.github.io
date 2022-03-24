@@ -21,8 +21,9 @@ Education
 
 Awards
 ======
+* ISBA Travel Award for Young Researcher, 2022.
 * French Government's Eiffel Excellence Scholarship, 2018.
 * *1st and Special Prizes*, Entropy Data Analytics Competition, 2017.
 * *Dean's List Award* for Outstanding Academic Performance, Vietnam National University, HCMC, 2016.
 
-**My full CV and references are available upon request.**
+**My full CV and references available upon request.**
