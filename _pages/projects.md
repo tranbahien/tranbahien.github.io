@@ -21,7 +21,7 @@ We develop a novel method for carrying out model selection for Bayesian autoenco
 
 
 ### Publications
-Tran, Ba-Hien; Rossi, Simone; Milios, Dimitrios; Michiardi, Pietro; V. Bonilla, Edwin; Filippone, Maurizio. Model Selection for Bayesian Autoencoders. In *Advances in Neural Information Processing Systems*, 2021. [pdf](https://arxiv.org/pdf/2106.06245.pdf).
+Tran, Ba-Hien; Rossi, Simone; Milios, Dimitrios; Michiardi, Pietro; V. Bonilla, Edwin; Filippone, Maurizio. Model Selection for Bayesian Autoencoders. In *Advances in Neural Information Processing Systems*, 2021.
 
 
 
@@ -36,4 +36,4 @@ The Bayesian treatment of neural networks dictates that a prior distribution is 
 ### Publications
 Tran, Ba-Hien; Rossi, Simone; Milios, Dimitrios; Filippone, Maurizio. All You Need is a Good Functional Prior for Bayesian Deep Learning. *Journal of Machine Learning Research*, 2022.
 
-Tran, Ba-Hien; Milios, Dimitrios; Rossi, Simone; Filippone, Maurizio. Functional priors for bayesian neural networks through wasserstein distance minimization to Gaussian processes. *3rd Symposium on Advances in Approximate Bayesian Inference*, 2021*.
+Tran, Ba-Hien; Milios, Dimitrios; Rossi, Simone; Filippone, Maurizio. Functional Priors for Bayesian Neural Networks through Wasserstein Distance Minimization to Gaussian Processes. *3rd Symposium on Advances in Approximate Bayesian Inference*, 2021.
