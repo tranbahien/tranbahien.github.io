@@ -21,7 +21,7 @@ Education
 
 Awards
 ======
-* ISBA Travel Award for Young Researcher, 2022.
+* ISBA Travel Award for Young Researchers, 2022.
 * French Government's Eiffel Excellence Scholarship, 2018.
 * *1st and Special Prizes*, Entropy Data Analytics Competition, 2017.
 * *Dean's List Award* for Outstanding Academic Performance, Vietnam National University, HCMC, 2016.

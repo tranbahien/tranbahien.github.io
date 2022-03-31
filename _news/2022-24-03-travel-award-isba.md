@@ -1,5 +1,5 @@
 ---
-title: "Received an [ISBA](https://bayesian.org/) Travel Award for Young Researcher."
+title: "Received an [ISBA Travel Award for Young Researchers] (https://bayesian.org/project/new-researchers-travel-award/)."
 collection: news
 type: "News"
 permalink: /news/travel_award_isba2022
