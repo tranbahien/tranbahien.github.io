@@ -5,5 +5,5 @@ type: "News"
 permalink: /news/2023-04-24-sgp-bae
 venue: 
 date: 2023-04-24
-location: "Hawaii (US)"
+location: "U.S. (Hawaii)"
 ---
