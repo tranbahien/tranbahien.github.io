@@ -1,5 +1,5 @@
 ---
-title: "Invited to serve as a reviewer for [AISTATS 2022](http://aistats.org/aistats2022/)."
+title: "Invited to serve as a reviewer for [AISTATS](http://aistats.org)."
 collection: news
 
 type: "News"
