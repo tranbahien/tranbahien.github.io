@@ -23,6 +23,8 @@ Generative Models (GMs) have attracted considerable attention due to their treme
 ### Publications
 Tran, Ba-Hien; Franzese, Giulio; Michiardi, Pietro; Filippone, Maurizio. One-Line-of-Code Data Mollification Improves Optimization of Likelihood-based Generative Models. ArXiv preprint, 2023.
 
+Tran, Ba-Hien; Franzese, Giulio; Michiardi, Pietro; Filippone, Maurizio. Improving Training of Likelihood-based Generative Models with Gaussian Homotopy. ICML Workshop on Structured Probabilistic Inference and Generative Modeling, 2023.
+
 ------------------------------------------------------------------------------
 ## Fully Bayesian Autoencoders with Latent Sparse Gaussian Processes 
 ![BRS](/files/abstract_figures/sgp-bae.png)
