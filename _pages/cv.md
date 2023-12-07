@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Machine Learning**, Sorbonne University and EURECOM, 2023.
-  * Thesis: *Advancing Bayesian Deep Learning: Sensible Priors and Accelerated Inference*.
+  * Thesis: *Advancing Bayesian Deep Learning: Sensible Priors and Accelerated Inference*. Best thesis award.
 * **M.S.Eng. in Data Science**, Institut Polytechnique de Paris, Telecom Paris, 2020. *High Distinction*.
   * Thesis: *Bayesian Inference for Deep Neural Networks*, (perfect grade: 20/20).
 * **B.S. (Honors) in Computer Science**, Vietnam National University, HCMC, 2016. *Distinction*.
@@ -21,6 +21,7 @@ Education
 
 Awards
 ======
+* 1st prize of 'Prix de thèse de l’EDITE 2023' (Best PhD thesis), Sorbonne University.
 * ISBA Travel Award for Young Researchers, 2022.
 * AXA Chair PhD Fellowship, 2020.
 * French Government's Eiffel Excellence Scholarship, 2018.
