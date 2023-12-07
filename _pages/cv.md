@@ -21,7 +21,7 @@ Education
 
 Awards
 ======
-* 1st prize of 'Prix de thèse de l’EDITE 2023' (Best PhD thesis), Sorbonne University.
+* 1st prize of 'Prix de thèse de l’EDITE' (Best PhD thesis), Sorbonne University, 2023.
 * ISBA Travel Award for Young Researchers, 2022.
 * AXA Chair PhD Fellowship, 2020.
 * French Government's Eiffel Excellence Scholarship, 2018.
