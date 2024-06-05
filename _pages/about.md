@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student within the Machine Learning group, [Data Science department](https://ds.eurecom.fr), at [EURECOM](http://eurecom.fr/en), under the supervision of [Prof. Maurizio Filippone](https://scholar.google.com/citations?hl=en&user=ILUeAloAAAAJ).
+I am currently a research scientist in machine learning at Huawei Paris research center.
 
-My current research is focused on the interface between probabilistic modeling and deep learning.
 
-My ambitious aim is to develop models that are more interpretable, scalable and data efficient. I'm particularly investigating better priors and more efficient inference techniques for deep probabilistic models.
+Previously, I was a PhD student at EURECOM and Sorbonne University, under the supervision of [Prof. Maurizio Filippone](https://scholar.google.com/citations?hl=en&user=ILUeAloAAAAJ).
 
-Please feel free to check out my list of publications, software and contact me for a research discussion.
+My research interests span from the intersections of probabilistic modeling and deep learning to extremely efficient AI models.
 
-**Contact**: ba-hien (dot) tran (at) eurecom (dot) fr ; bahientranvn (at) gmail (dot) com .
+
+My ambitious goal is to develop models that are more interpretable, scalable, and efficient in terms of both data and energy. I have been exploring improved priors, more efficient inference techniques for deep probabilistic models, and innovative paradigms for extremely efficient deep learning through binarization and quantization.
+
+<!-- Please feel free to check out my list of publications, software and contact me for a research discussion. -->
+
+**Contact**: ba (dot) hien (dot) tran (dot) tran (at) huawei (dot) com ; bahientranvn (at) gmail (dot) com .
 
 
 ## Latest News

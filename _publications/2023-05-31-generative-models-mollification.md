@@ -5,7 +5,7 @@ permalink: /publication/2023-09-21-generative-models-mollification
 excerpt: ''
 date: 2023-09-21
 venue: 'NeurIPS'
-citation: '<b>Tran, Ba-Hien</b>; Franzese, Giulio; Michiardi, Pietro; Filippone, Maurizio. One-Line-of-Code Data Mollification Improves Optimization of Likelihood-based Generative Models. In <i>Advances in Neural Information Processing Systems</i>, 2023 (to appear).'
+citation: '<b>Tran, Ba-Hien</b>; Franzese, Giulio; Michiardi, Pietro; Filippone, Maurizio. One-Line-of-Code Data Mollification Improves Optimization of Likelihood-based Generative Models. In <i>Advances in Neural Information Processing Systems</i>, 2023.'
 
 
 ---
