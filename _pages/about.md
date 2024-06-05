@@ -20,7 +20,7 @@ My ambitious goal is to develop models that are more interpretable, scalable, an
 
 <!-- Please feel free to check out my list of publications, software and contact me for a research discussion. -->
 
-**Contact**: ba (dot) hien (dot) tran (dot) tran (at) huawei (dot) com ; bahientranvn (at) gmail (dot) com .
+**Contact**: ba (dot) hien (dot) tran (at) huawei (dot) com ; bahientranvn (at) gmail (dot) com .
 
 
 ## Latest News
