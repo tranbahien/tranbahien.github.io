@@ -1,11 +1,11 @@
 ---
 title: "Robust Classification by Coupling Data Mollification with Label Smoothing"
 collection: publications
-permalink: /publication/2024-06-03-classification-mollification
+permalink: /publication/2025-01-22-classification-mollification
 excerpt: ''
-date: 2024-06-03
-venue: 'ArXiv'
-citation: 'Heinonen, Markus; <b>Tran, Ba-Hien</b>; Kampffmeyer, Michael; Filippone, Maurizio. Robust Classification by Coupling Data Mollification with Label Smoothing. ArXiv preprint, 2024.'
+date: 2025-01-22
+venue: 'AISTATS'
+citation: 'Heinonen, Markus; <b>Tran, Ba-Hien</b>; Kampffmeyer, Michael; Filippone, Maurizio. Robust Classification by Coupling Data Mollification with Label Smoothing. AISTATS, 2025.'
 
 
 ---
