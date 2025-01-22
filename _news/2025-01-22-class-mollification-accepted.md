@@ -5,5 +5,5 @@ type: "News"
 permalink: /news/2025-01-22-class-mollification-accepted
 venue: 
 date: 2025-01-22
-location: "Singapore"
+location: "Thailand"
 ---
