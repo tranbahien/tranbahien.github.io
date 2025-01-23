@@ -5,7 +5,7 @@ permalink: /publication/2025-01-22-classification-mollification
 excerpt: ''
 date: 2025-01-22
 venue: 'AISTATS'
-citation: 'Heinonen, Markus; <b>Tran, Ba-Hien</b>; Kampffmeyer, Michael; Filippone, Maurizio. Robust Classification by Coupling Data Mollification with Label Smoothing. AISTATS, 2025.'
+citation: 'Heinonen, Markus; <b>Tran, Ba-Hien</b>; Kampffmeyer, Michael; Filippone, Maurizio. Robust Classification by Coupling Data Mollification with Label Smoothing. In <i>International Conference on Artificial Intelligence and Statistics</i>, 2025.'
 
 
 ---
