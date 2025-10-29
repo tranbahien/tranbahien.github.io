@@ -13,7 +13,7 @@ I am currently a Senior Research Scientist in Machine Learning at Huawei’s Par
 Previously, I completed my PhD at EURECOM and Sorbonne University (with Best PhD Thesis Award) under the supervision of [Prof. Maurizio Filippone](https://scholar.google.com/citations?hl=en&user=ILUeAloAAAAJ).
 
 My research interests span from the intersections of probabilistic modeling and deep learning to extremely efficient AI models.
-I actively contribute to both academia and industry—publishing papers in top-tier machine learning venues such as JMLR, NeurIPS, ICML, and AISTATS (mostly as first author), and holding around 25 filed patents (primarily as the principal inventor).
+I actively contribute to both academia and industry—publishing papers in top-tier machine learning venues such as JMLR, NeurIPS, ICML, AISTATS, etc. (mostly as first author), and inventing around 25 filed patents (primarily as the principal inventor).
 
 
 My overarching goal is to design models that are more reliable, scalable, and efficient in terms of both data and energy. To this end, I explore improved priors, efficient inference techniques for deep probabilistic models, and innovative approaches for extremely efficient deep learning, including low-precision computing.
