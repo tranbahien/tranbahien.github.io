@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ba-Hien TRAN"
 title_separator          : "-"
 name                     : &name "Ba-Hien Tran"
-description              : &description "A PhD student in Bayesian Machine Learning"
+description              : &description "Senior Machine Learning Research Scientist"
 url                      : https://tranbahien.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tranbahien.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ba-Hien TRAN"
   avatar           : "profile.png"
-  bio              : "Research Scientist in Machine Learning at Huawei Paris Research Center"
+  bio              : "Senior Research Scientist in Machine Learning at Huawei Paris Research Center"
   location         : "France"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=FW26AagAAAAJ&hl=en"
