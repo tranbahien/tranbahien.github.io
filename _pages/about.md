@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior research scientist in machine learning at Huawei Paris research center.
-
-
 I am currently a Senior Research Scientist in Machine Learning at Huawei’s Paris Research Center.
 
 Previously, I completed my PhD at EURECOM and Sorbonne University (with Best PhD Thesis Award) under the supervision of [Prof. Maurizio Filippone](https://scholar.google.com/citations?hl=en&user=ILUeAloAAAAJ).
