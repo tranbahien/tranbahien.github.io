@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D. in Machine Learning**, Sorbonne University and EURECOM, 2023. *Best PhD Thesis Awarded*.
   * Thesis: *Advancing Bayesian Deep Learning: Sensible Priors and Accelerated Inference*.
-* **M.S.Eng. in Data Science**, Institut Polytechnique de Paris, Telecom Paris, 2020. *High Distinction*.
+* **M.S.Eng. (Diplôme d'Ingénieur) in Data Science**, Institut Polytechnique de Paris, Telecom Paris, 2020. *High Distinction*.
   * Thesis: *Bayesian Inference for Deep Neural Networks*, (perfect grade: 20/20).
 * **B.S. (Honors) in Computer Science**, Vietnam National University, HCMC, 2016. *Distinction*.
   * Thesis: *Deep Learning Approaches to Data-driven Image Captioning*, (perfect grade: 10/10).
@@ -21,7 +21,8 @@ Education
 
 Awards
 ======
-* Future Star, Huawei, 2025.
+* Quality Star, Huawei Research, 2025.
+* Future Star, Huawei Research, 2025.
 * 1st prize of 'Prix de thèse de l’EDITE' (Best PhD Thesis Award), Sorbonne University, 2023.
 * ISBA Travel Award for Young Researchers, 2022.
 * AXA Chair PhD Fellowship, 2020.
