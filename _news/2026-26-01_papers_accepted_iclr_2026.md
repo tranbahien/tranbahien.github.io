@@ -5,5 +5,5 @@ type: "News"
 permalink: /news/2026-01-26-paper-iclr-2026-accepted
 venue: 
 date: 2026-01-26
-location: "Rio de Janeiro"
+location: "Brazil (Rio de Janeiro)"
 ---
