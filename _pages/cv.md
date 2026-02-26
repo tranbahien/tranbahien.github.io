@@ -23,6 +23,7 @@ Awards
 ======
 * Quality Star, Huawei Research, 2025.
 * Future Star, Huawei Research, 2025.
+* Top Reviewer, NeurIPS, 2025.
 * 1st prize of 'Prix de thèse de l’EDITE' (Best PhD Thesis Award), Sorbonne University, 2023.
 * ISBA Travel Award for Young Researchers, 2022.
 * AXA Chair PhD Fellowship, 2020.
