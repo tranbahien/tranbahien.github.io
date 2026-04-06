@@ -26,7 +26,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a **Senior Research Scientist in Machine Learning** at **Huawei’s Paris Research Center**.
+I am currently a **Senior Research Scientist in Machine Learning** at **Huawei Paris Research Center**.
 
 I earned my **PhD** in machine learning from **[Sorbonne University](https://www.sorbonne-universite.fr/en)** under the supervision of [Prof. Maurizio Filippone](https://scholar.google.com/citations?user=ILUeAloAAAAJ&hl=en), where I was honored with the **Best PhD Thesis Award**.
 Prior to this, I earned my **Diplôme d'Ingénieur**  in computer science from **[Télécom Paris, Polytechnic Institute of Paris](https://www.telecom-paris.fr/en/home)**, graduating with highest distinction (GPA 4.0/4.0, and Thesis 20/20).
