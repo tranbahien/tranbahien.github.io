@@ -1,0 +1,12 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: bahientranvn@gmail.com # your email address
+github_username: tranbahien # your GitHub username
+# inspirehep_id: 1010907 # Inspire HEP author ID
+linkedin_username: tranbahien # your LinkedIn username
+# rss_icon: true # comment this line to hide the RSS icon
+scholar_userid: FW26AagAAAAJ # your Google Scholar ID
+# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+cv_pdf: https://drive.google.com/file/d/118560yJIfTPIf9I8oK0t7rdv8mdKYLvf/view?usp=drive_link # your CV PDF file
