@@ -28,7 +28,7 @@ announcements:
 
 I am currently a **Senior Research Scientist in Machine Learning** at **Huawei Paris Research Center**.
 
-I earned my **PhD** in machine learning from **[Sorbonne University](https://www.sorbonne-universite.fr/en)** under the supervision of [Prof. Maurizio Filippone](https://scholar.google.com/citations?user=ILUeAloAAAAJ&hl=en), where I was honored with the **Best PhD Thesis Award**.
+I obtained my **PhD** in machine learning from **[Sorbonne University](https://www.sorbonne-universite.fr/en)** under the supervision of [Prof. Maurizio Filippone](https://scholar.google.com/citations?user=ILUeAloAAAAJ&hl=en), where I was honored with the **Best PhD Thesis Award**.
 Prior to this, I earned my **Diplôme d'Ingénieur**  in computer science from **[Télécom Paris, Polytechnic Institute of Paris](https://www.telecom-paris.fr/en/home)**, graduating with highest distinction (GPA 4.0/4.0, and Thesis 20/20).
 
 My research operates at the intersection of ***probabilistic modeling*** and ***deep learning***, with a strong emphasis on developing ***extremely efficient AI models***. I am deeply committed to advancing both academic research and industrial innovation. My work is regularly published in top-tier machine learning venues—including **JMLR, NeurIPS, ICML, ICLR, AISTATS**—***mostly as the first author***. Additionally, I have invented **over 30 filed patents**, ***primarily serving as the principal inventor***, with many of these recognized as high-value inventions by the corporation.
