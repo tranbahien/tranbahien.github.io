@@ -39,7 +39,13 @@ My overarching goal is to develop AI solutions that are **reliable, robust, and 
 
 - ***Robust AI (Generalization & Robustness)***: Real-world deployments require models that can withstand noise and unpredictability. My research utilizes probabilistic frameworks to enhance **model robustness** against distributional shifts, out-of-distribution (OOD) data, and adversarial perturbations, ensuring consistent performance in dynamic environments.
 
-- ***Efficient AI (Resource Optimization)***: Dedicated to drastically reducing **computational, memory, and energy footprints** without sacrificing accuracy. I develop novel approaches—such as low-precision computing, scalable and efficient training and inference, and model compression, bridging the gap between massive foundational models and ultra-low-latency edge devices.
+- ***Efficient AI (Resource Optimization)***: Dedicated to drastically reducing **computational, memory, and energy footprints** without sacrificing accuracy. I develop novel approaches—such as low-precision computing, scalable and efficient training and inference, and model compression, bridging the gap between massive foundation models and ultra-low-latency edge devices.
+
+
+🧭 Beyond screens and papers, I'm a passionate traveler driven by curiosity to explore new cultures and experiences across the globe. My adventures have taken me through an amazing array of places: 🇻🇳🇫🇷🇩🇪🇨🇭🇧🇪🇨🇿🇩🇰🇭🇺🇮🇹🇱🇺🇲🇨🇳🇴🇵🇱🇶🇦🇸🇪🇸🇰🇺🇸🇻🇦🇳🇱🇦🇹🇭🇷🇧🇦🇪🇸🇵🇹🇨🇳🇱🇻🇪🇪🇫🇮🇨🇦🇲🇪🇦🇱🇦🇪🇧🇷.
+
+
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
