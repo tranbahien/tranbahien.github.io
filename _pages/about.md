@@ -42,7 +42,7 @@ My overarching goal is to develop AI solutions that are **reliable, robust, and 
 - ***Efficient AI (Resource Optimization)***: Dedicated to drastically reducing **computational, memory, and energy footprints** without sacrificing accuracy. I develop novel approaches—such as low-precision computing, scalable and efficient training and inference, and model compression, bridging the gap between massive foundation models and ultra-low-latency edge devices.
 
 
-🧭 Beyond screens and papers, I'm a passionate traveler driven by curiosity to explore new cultures and experiences. My adventures have taken me through an amazing array of places: 🇻🇳🇫🇷🇩🇪🇨🇭🇧🇪🇨🇿🇩🇰🇭🇺🇮🇹🇱🇺🇲🇨🇳🇴🇵🇱🇶🇦🇸🇪🇸🇰🇺🇸🇻🇦🇳🇱🇦🇹🇭🇷🇧🇦🇪🇸🇵🇹🇨🇳🇱🇻🇪🇪🇫🇮🇨🇦🇲🇪🇦🇱🇦🇪🇧🇷.
+<!-- 🧭 Beyond screens and papers, I'm a passionate traveler driven by curiosity to explore new cultures and experiences. My adventures have taken me through an amazing array of places: 🇻🇳🇫🇷🇩🇪🇨🇭🇧🇪🇨🇿🇩🇰🇭🇺🇮🇹🇱🇺🇲🇨🇳🇴🇵🇱🇶🇦🇸🇪🇸🇰🇺🇸🇻🇦🇳🇱🇦🇹🇭🇷🇧🇦🇪🇸🇵🇹🇨🇳🇱🇻🇪🇪🇫🇮🇨🇦🇲🇪🇦🇱🇦🇪🇧🇷. -->
 
 
 
