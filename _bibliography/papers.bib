@@ -1,16 +1,16 @@
 ---
 ---
-@article{tran2026sharpnessaware,
-  abbr      = {Preprint},
-  title     = {{Sharpness-Aware Minimization Directly on the Boolean Hypercube}},
-  abstract  = {Sharpness-Aware Minimization (SAM) improves generalization in continuous deep learning, yet applying it to binary-weight networks via latent-space heuristics suffers from a fundamental geometric mismatch: continuous perturbations do not faithfully probe the discrete loss landscape on $\{-1,1\}^n$. We introduce BOLD-SAM, the first sharpness-aware optimizer that operates natively on the Boolean hypercube, replacing the Euclidean $l_{p}$-ball with a $k$-bit Hamming ball and solving the resulting discrete min-max problem via greedy ascent followed by sharpness-aware bit-flip descent. The objective is theoretically justified from three complementary perspectives: PAC-Bayes, compression, and distributionally robust optimization. We prove an approximation guarantee for the ascent step and a finite-time convergence bound for the descent, both governed by the discrete interaction Hessian, which emerges as the unifying quantity linking ascent quality to convergence rate. We further connect discrete flatness to Forman-Ricci curvature and algorithmic complexity. Experiments on a wide range of architectures and datasets demonstrate consistent improvements in clean accuracy and out-of-distribution robustness over standard binary training and latent-space SAM baselines.},
+@inproceedings{tran2026sharpnessaware,
+  abbr      = {NeurIPS},
+  title     = {{Navigating the Boolean Hypercube: Sharpness-Aware Minimization Directly in Discrete Loss Landscapes}},
+  abstract  = {Sharpness-Aware Minimization (SAM) improves generalization in continuous deep learning, yet applying it to binary-weight networks via latent-space heuristics suffers from a fundamental geometric mismatch: continuous perturbations do not faithfully probe the discrete loss landscape on $\{-1,+1\}^n$.  We introduce BOLD-SAM, the first sharpness-aware optimizer that operates natively on the Boolean hypercube, replacing the Euclidean $\ell_p$-ball with a $k$-bit Hamming ball and solving the resulting discrete min-max problem via greedy ascent followed by sharpness-aware bit-flip descent.  The objective is theoretically justified from three complementary perspectives: PAC-Bayes, compression, and distributionally robust optimization.  We prove an approximation guarantee for the ascent step and a finite-time convergence bound for the descent, both governed by the discrete interaction Hessian, which emerges as the unifying quantity linking ascent quality to convergence rate.  We further connect discrete flatness to Forman-Ricci curvature and algorithmic complexity. Experiments on a wide range of architectures and datasets demonstrate consistent improvements in clean accuracy and out-of-distribution robustness over standard binary training and latent-space SAM baselines.},
   author    = {Ba-Hien Tran},
-  journal   = {Under review. Preliminary version presented at ICML 2026 Workshop on Weight-Space Symmetries: from Foundations to Practical Applications},
+  booktitle = {Advances in Neural Information Processing Systems},
   year      = {2026},
   selected  = {true},
   preview   = {bold_sam.png},
-  pdf       = {https://openreview.net/pdf?id=YwVm1lnbzX},
-  url       = {https://openreview.net/forum?id=YwVm1lnbzX}
+  pdf       = {https://arxiv.org},
+  url       = {https://arxiv.org}
 }
 
 
